@@ -1,21 +1,21 @@
 [
     {
         "name": "A token",
-        "address": "0xB6044f769f519a634A5150645484b18d0C031ae8",
+        "address": "0x7405769BEfAc397563D976470bdb1B790d26a025",
         "symbol": "AAA",
         "decimals": 18,
         "chainId": 534353
     },
     {
         "name": "B token",
-        "address": "0xe37AA274d1bb3815b63cd13064dE443423F74316",
+        "address": "0xcA9b84f307c7E7825C6e9B1da732f0a7e953889D",
         "symbol": "BBB",
         "decimals": 6,
         "chainId": 534353
     },
     {
         "name": "C token",
-        "address": "0xEc0B101CDC03ae65F78cF5477F2b9e0FaB9f2b28",
+        "address": "0xb4F8FB8cC48A9Eb8d8E0A530C9775eD06728BaDd",
         "symbol": "CCC",
         "decimals": 0,
         "chainId": 534353
